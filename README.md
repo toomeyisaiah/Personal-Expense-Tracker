@@ -62,7 +62,7 @@ The **Personal Expense Tracker** helps users manage and visualize their personal
 *Example of the main interface.*
 
 ![Login Window](screenshots/UserLogin.png)  
-*Example of the Main User Login / Creation Screen.*
+*Example of the Main User Login.*
 
 ![User Creation Window](screenshots/UserPinCreation.png)  
 *Example of the User Pin Creation Tool.*
