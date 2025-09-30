@@ -1,6 +1,6 @@
 # Personal Expense Tracker
 
-A simple command-line application (with an optional GUI) to track personal expenses. This project allows users to add expenses, view all expenses, and get summaries by category. Data is persisted in a JSON file for future use.
+A simple command-line application  to track personal expenses. This project allows users to add expenses, view all expenses, and get summaries by category. Data is persisted in a JSON file for future use.
 
 ## Features
 - Add expenses with description, amount, and category.
@@ -24,3 +24,8 @@ A simple command-line application (with an optional GUI) to track personal expen
 3. Run the command-line version:
     ```bash
     python app.py
+
+# Author
+
+Isaiah Toomey
+Founder of Toomey Software
