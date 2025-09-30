@@ -24,3 +24,8 @@ A simple command-line application  to track personal expenses. This project allo
 3. Run the command-line version:
     ```bash
     python app.py
+
+# Author
+
+Isaiah Toomey
+Founder of Toomey Software
